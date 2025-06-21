@@ -1,42 +1,73 @@
-# 🧠✨ React Background Remover – Powered by AI 🚀🖼️
+# Welcome to your Lovable project
 
-[![React](https://img.shields.io/badge/React-18%2B-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![License: MIT](https://img.shields.io/github/license/yourusername/react-background-remover?style=for-the-badge)](./LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-00b894?style=for-the-badge)](https://github.com/yourusername/react-background-remover/pulls)
-[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-ff4757?style=for-the-badge&logo=vercel)](https://your-live-demo-link.com)
-![Languages](https://img.shields.io/github/languages/top/yourusername/react-background-remover?style=for-the-badge)
-![Codebase](https://img.shields.io/github/languages/count/yourusername/react-background-remover?style=for-the-badge)
+## Project info
 
-> 🪄 Remove image backgrounds instantly using a powerful React-based UI with AI assistance!
+**URL**: https://lovable.dev/projects/ded4ccb1-97cb-407d-8991-47e5cd949c2e
 
----
+## How can I edit this code?
 
-## 📊 Language Usage (Real-Time)
+There are several ways of editing your application.
 
-![Language Stats](https://img.shields.io/github/languages/top/yourusername/react-background-remover?color=blue&style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/react-background-remover?color=purple&style=flat-square)
-![Lines of Code](https://img.shields.io/tokei/lines/github/yourusername/react-background-remover?style=flat-square)
+**Use Lovable**
 
-_These badges update automatically from your GitHub repo._
+Simply visit the [Lovable Project](https://lovable.dev/projects/ded4ccb1-97cb-407d-8991-47e5cd949c2e) and start prompting.
 
----
+Changes made via Lovable will be committed automatically to this repo.
 
-## 🧠 Tech Stack
+**Use your preferred IDE**
 
-| 🔧 Tech         | 💬 Role                             |
-|----------------|-------------------------------------|
-| React          | Core UI framework                   |
-| Tailwind CSS   | Styling and layout                  |
-| JavaScript     | Logic & interaction                 |
-| Remove.bg API  | (or Custom AI Model) Background AI  |
-| HTML5/CSS3     | Structure and responsiveness        |
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
----
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-## ⚡ Quick Start
+Follow these steps:
 
-```bash
-git clone https://github.com/yourusername/react-background-remover.git
-cd react-background-remover
-yarn install
-yarn start
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
+
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/ded4ccb1-97cb-407d-8991-47e5cd949c2e) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
